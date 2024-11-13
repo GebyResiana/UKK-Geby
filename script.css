@@ -1,0 +1,29 @@
+/* Reset */
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  .logo {
+    width: 150px;
+    height: auto;
+    margin-left: 20px;
+  }
+
+  header {
+    background-color: bisque;
+    padding: 20px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  nav ul 
